@@ -1,0 +1,45 @@
+<?php include 'header.php'; ?>
+
+<section class="hero">
+    <div class="container hero-content">
+        <h1>Experience the Massive Difference</h1>
+        <p>Premium cleaning solutions for your home, office, and vehicle. Precision, reliability, and spotless results guaranteed.</p>
+        <a href="services.php" class="btn-cta">Explore Our Services</a>
+    </div>
+</section>
+
+<section class="section-padding">
+    <div class="container">
+        <div class="section-header">
+            <h2>Why Choose Massive Works?</h2>
+            <p>We combine advanced cleaning technology with a dedicated team of professionals.</p>
+        </div>
+        <div class="grid-3">
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-gem"></i></div>
+                <h3>Premium Quality</h3>
+                <p>We use eco-friendly, high-grade products that protect your surfaces while delivering a brilliant shine.</p>
+            </div>
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-user-shield"></i></div>
+                <h3>Trusted Team</h3>
+                <p>Every specialist is background-checked, insured, and rigorously trained in modern cleaning protocols.</p>
+            </div>
+            <div class="card">
+                <div class="card-icon"><i class="fas fa-clock"></i></div>
+                <h3>Reliable Schedule</h3>
+                <p>We respect your time. Flexible booking slots and punctual arrival times are our standard.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="background: var(--primary-dark); padding: 80px 0; text-align: center; color: white;">
+    <div class="container">
+        <h2 style="color: white; font-size: 2.5rem; margin-bottom: 20px;">Is your car looking dull?</h2>
+        <p style="opacity: 0.8; margin-bottom: 30px; font-size: 1.2rem;">Bring it back to showroom quality with our detailing packages.</p>
+        <a href="contact.php" class="btn-cta">Book Car Wash</a>
+    </div>
+</section>
+
+<?php include 'footer.php'; ?>
